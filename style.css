@@ -1,0 +1,225 @@
+body{
+margin: 0px;
+background-color: #9c4824;
+}
+.nav-nav{
+background-color: rgba(0, 0, 0, 0.5);
+height: 113px;
+position: fixed;
+z-index: 2;
+width: 100%;
+
+}
+.nav-bar li{
+display: inline-block;
+padding: 30px;
+}
+.nav-bar li a{
+
+text-decoration: none;
+color: white;
+font-size: 20px;
+
+}
+.nav-bar{
+
+position: absolute;
+
+
+
+}
+.navv ul {
+    position: fixed;
+
+}
+
+.logo h1{
+right: 88px;
+top: 21px;
+color: white;
+position: fixed;
+}
+/* .navi{
+z-index: 1;
+    background-color: rgba(.5,.5,.5, .5); */
+
+
+.img1 img{
+    width: 100%;
+
+
+}
+.color_mazaji{
+    color: rgb(243, 241, 241);
+}
+
+.center {
+    text-align-last: center;
+    font-size: 300%;
+}
+.paragraph{
+    text-align: center;
+    font-size: 200%;
+}
+#welcome {
+
+
+        padding-left: 30px;
+          background-color: #9c4824;
+      padding-bottom: 168px;
+}
+#welcome div{
+    border-radius: 10px;
+}
+
+ .container {
+  border-radius: 50px;
+  padding: 30px;
+    background-color: #9c4824;
+}
+.padimages{
+
+    padding: 20px 0px;
+}
+.padimages .img2{
+display: inline-block;
+
+
+}
+.img2 img{
+
+    width:400px;
+    height: 336px;
+}
+ .img2{
+    width:400px;
+
+    display: inline-block;
+
+
+ }
+.img_2  {
+    position: absolute;
+    background-color: rgb(245, 241, 240);
+    font-size: 40px;
+    width: 400px;
+    height: 100px;
+    display: inline-block;
+    text-align-last: center;
+
+}
+.tablee {
+
+    padding: 50px 23px 20px 192px;
+}
+.trend{
+position: absolute;
+display: inline-block;
+text-align: center;
+left: 530px;
+font-size: 1.5rem;
+color: white;
+
+
+}
+
+
+
+
+
+.inlinee{
+    display: inline-block;
+    margin-top: 125px;
+
+    margin-right: 105px;
+    margin-left: 50px;
+
+}
+.inlineee{
+    display: inline-block;
+    /* position: absolute; */
+margin-right: 170px;
+
+}
+.img3 img{
+    width:250px;
+ height: 200px;
+
+
+
+}
+.img3 {
+
+    width:250px;
+
+    display: inline-block;
+
+}
+.text_img p{
+padding: 15px;
+margin: 10px 0px;
+
+}
+.text_img{
+
+    background-color: rgb(248, 247, 245);
+    width:200px;
+    border-radius: 40px 30px 40px;
+    font-size: 25px;
+padding-left: 20px;
+
+
+
+}
+.inlineee {
+
+
+    margin-left: 150px;
+
+}
+
+
+.foot {
+  width: 100%;
+  height: 100PX;
+  background-color:#9c4824a3;
+
+  text-align: center;
+}
+
+
+.foot a{
+
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+margin-top: 15px;
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+
+}
+.foot h6{
+  font-family:serif;
+  padding-top: 5px;
+  color: white;
+}
+
+.fa-whatsapp:hover{
+  color: #00cc00;
+}
+
+.fa-facebook-f:hover{
+color: blue;
+}
+
+.fa-instagram:hover{
+color: #b3003b;
+}
+
+.fa-telegram:hover{
+color: #1ab2ff;
+}
+.fa-envelope-o:hover{
+color: orange;
+}
